@@ -6,7 +6,8 @@ namespace CSC478Blackjack
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("hello world");
+            Console.Write("this is a test");
         }
     }
 }
