@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSC478Blackjack/1.0.0": {
+        "runtime": {
+          "CSC478Blackjack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSC478Blackjack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

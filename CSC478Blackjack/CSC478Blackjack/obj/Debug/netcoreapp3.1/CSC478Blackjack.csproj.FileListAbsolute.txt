@@ -1,0 +1,14 @@
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\bin\Debug\netcoreapp3.1\CSC478Blackjack.exe
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\bin\Debug\netcoreapp3.1\CSC478Blackjack.deps.json
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\bin\Debug\netcoreapp3.1\CSC478Blackjack.runtimeconfig.json
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\bin\Debug\netcoreapp3.1\CSC478Blackjack.runtimeconfig.dev.json
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\bin\Debug\netcoreapp3.1\CSC478Blackjack.dll
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\bin\Debug\netcoreapp3.1\CSC478Blackjack.pdb
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\obj\Debug\netcoreapp3.1\CSC478Blackjack.csproj.AssemblyReference.cache
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\obj\Debug\netcoreapp3.1\CSC478Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\obj\Debug\netcoreapp3.1\CSC478Blackjack.AssemblyInfoInputs.cache
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\obj\Debug\netcoreapp3.1\CSC478Blackjack.AssemblyInfo.cs
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\obj\Debug\netcoreapp3.1\CSC478Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\obj\Debug\netcoreapp3.1\CSC478Blackjack.dll
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\obj\Debug\netcoreapp3.1\CSC478Blackjack.pdb
+C:\Users\gcgab\Desktop\Capstone Project\Team-2-Blackjack\CSC478Blackjack\CSC478Blackjack\obj\Debug\netcoreapp3.1\CSC478Blackjack.genruntimeconfig.cache
